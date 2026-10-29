@@ -1,0 +1,210 @@
+category,image,metric,channel,paper_value
+grayscale,5.1.09 Moon,plain_entropy,,6.7093
+grayscale,5.1.09 Moon,cipher_entropy,,7.9974
+grayscale,5.1.09 Moon,MSE,,6244.71
+grayscale,5.1.09 Moon,PSNR,,10.1757
+grayscale,5.1.09 Moon,local_entropy,,7.9002
+grayscale,5.1.09 Moon,NPCR,,99.6215
+grayscale,5.1.09 Moon,UACI,,33.4782
+grayscale,5.1.10 Aerial,plain_entropy,,7.3118
+grayscale,5.1.10 Aerial,cipher_entropy,,7.9973
+grayscale,5.1.10 Aerial,chi_square,,244.6016
+grayscale,5.1.10 Aerial,MSE,,7683.06
+grayscale,5.1.10 Aerial,PSNR,,9.2755
+grayscale,5.1.10 Aerial,plain_corr_horizontal,,0.9027
+grayscale,5.1.10 Aerial,plain_corr_vertical,,0.8610
+grayscale,5.1.10 Aerial,plain_corr_diagonal,,0.8226
+grayscale,5.1.10 Aerial,cipher_corr_horizontal,,0.0115
+grayscale,5.1.10 Aerial,cipher_corr_vertical,,-0.0013
+grayscale,5.1.10 Aerial,cipher_corr_diagonal,,0.0071
+grayscale,5.1.10 Aerial,NPCR,,99.6017
+grayscale,5.1.10 Aerial,UACI,,33.4556
+grayscale,5.1.11 Airplane,plain_entropy,,6.4522
+grayscale,5.1.11 Airplane,cipher_entropy,,7.9970
+grayscale,5.1.11 Airplane,chi_square,,276.5313
+grayscale,5.1.11 Airplane,MSE,,10919.26
+grayscale,5.1.11 Airplane,PSNR,,7.7489
+grayscale,5.1.11 Airplane,local_entropy,,7.9016
+grayscale,5.1.11 Airplane,plain_corr_horizontal,,0.9571
+grayscale,5.1.11 Airplane,plain_corr_vertical,,0.9349
+grayscale,5.1.11 Airplane,plain_corr_diagonal,,0.8916
+grayscale,5.1.11 Airplane,cipher_corr_horizontal,,-0.0077
+grayscale,5.1.11 Airplane,cipher_corr_vertical,,0.0087
+grayscale,5.1.11 Airplane,cipher_corr_diagonal,,0.0027
+grayscale,5.1.11 Airplane,NPCR,,99.5590
+grayscale,5.1.11 Airplane,UACI,,33.4765
+grayscale,5.1.12 Clock,plain_entropy,,6.7056
+grayscale,5.1.12 Clock,cipher_entropy,,7.9973
+grayscale,5.1.12 Clock,chi_square,,243.7969
+grayscale,5.1.12 Clock,MSE,,12121.88
+grayscale,5.1.12 Clock,PSNR,,7.2951
+grayscale,5.1.12 Clock,local_entropy,,7.9021
+grayscale,5.1.12 Clock,NPCR,,99.6154
+grayscale,5.1.12 Clock,UACI,,33.4982
+grayscale,5.1.13 Ruler,plain_entropy,,1.5483
+grayscale,5.1.13 Ruler,cipher_entropy,,7.9968
+grayscale,5.1.13 Ruler,MSE,,20948.48
+grayscale,5.1.13 Ruler,PSNR,,4.9193
+grayscale,5.1.13 Ruler,local_entropy,,7.9019
+grayscale,5.1.13 Ruler,NPCR,,99.6017
+grayscale,5.1.13 Ruler,UACI,,33.4541
+grayscale,5.1.14 Plant,plain_entropy,,7.3424
+grayscale,5.1.14 Plant,cipher_entropy,,7.9972
+grayscale,5.1.14 Plant,chi_square,,253.9141
+grayscale,5.1.14 Plant,MSE,,7735.70
+grayscale,5.1.14 Plant,PSNR,,9.2458
+grayscale,5.1.14 Plant,local_entropy,,7.8996
+grayscale,5.1.14 Plant,NPCR,,99.6002
+grayscale,5.1.14 Plant,UACI,,33.4501
+color,Mandril,plain_entropy,R,7.7067
+color,Mandril,plain_entropy,G,7.4744
+color,Mandril,plain_entropy,B,7.7522
+color,Mandril,cipher_entropy,R,7.9976
+color,Mandril,cipher_entropy,G,7.9971
+color,Mandril,cipher_entropy,B,7.9969
+color,Mandril,chi_square,R,218.6328
+color,Mandril,chi_square,G,263.6641
+color,Mandril,chi_square,B,280.1953
+color,Mandril,plain_corr_horizontal,R,0.9231
+color,Mandril,cipher_corr_horizontal,R,-0.0018
+color,Mandril,plain_corr_vertical,R,0.8660
+color,Mandril,cipher_corr_vertical,R,-0.0055
+color,Mandril,plain_corr_diagonal,R,0.8543
+color,Mandril,cipher_corr_diagonal,R,0.0042
+color,Mandril,plain_corr_horizontal,G,0.8655
+color,Mandril,cipher_corr_horizontal,G,-0.0005
+color,Mandril,plain_corr_vertical,G,0.7650
+color,Mandril,cipher_corr_vertical,G,0.0009
+color,Mandril,plain_corr_diagonal,G,0.7348
+color,Mandril,cipher_corr_diagonal,G,-0.0001
+color,Mandril,plain_corr_horizontal,B,0.9073
+color,Mandril,cipher_corr_horizontal,B,0.0016
+color,Mandril,plain_corr_vertical,B,0.8809
+color,Mandril,cipher_corr_vertical,B,0.0007
+color,Mandril,plain_corr_diagonal,B,0.8399
+color,Mandril,cipher_corr_diagonal,B,-0.0018
+color,Peppers,plain_entropy,R,7.3388
+color,Peppers,plain_entropy,G,7.4963
+color,Peppers,plain_entropy,B,7.0583
+color,Peppers,cipher_entropy,R,7.9969
+color,Peppers,cipher_entropy,G,7.9973
+color,Peppers,cipher_entropy,B,7.9975
+color,Peppers,chi_square,R,282.1094
+color,Peppers,chi_square,G,248.6953
+color,Peppers,chi_square,B,224.2266
+color,Peppers,cipher_corr_horizontal,R,-0.0042
+color,Peppers,cipher_corr_horizontal,G,-0.0065
+color,Peppers,cipher_corr_horizontal,B,-0.0007
+color,Peppers,cipher_corr_vertical,R,0.0015
+color,Peppers,cipher_corr_vertical,G,-0.0026
+color,Peppers,cipher_corr_vertical,B,-0.0018
+color,Peppers,cipher_corr_diagonal,R,-0.0014
+color,Peppers,cipher_corr_diagonal,G,0.0034
+color,Peppers,cipher_corr_diagonal,B,0.0060
+color,Lake,plain_entropy,R,7.3124
+color,Lake,plain_entropy,G,7.6429
+color,Lake,plain_entropy,B,7.2136
+color,Lake,cipher_entropy,R,7.9972
+color,Lake,cipher_entropy,G,7.9969
+color,Lake,cipher_entropy,B,7.9972
+color,Lake,chi_square,R,251.0859
+color,Lake,chi_square,G,284.8438
+color,Lake,chi_square,B,256.1875
+color,Lake,plain_corr_horizontal,R,0.9558
+color,Lake,cipher_corr_horizontal,R,-0.0017
+color,Lake,plain_corr_vertical,R,0.9541
+color,Lake,cipher_corr_vertical,R,-0.0036
+color,Lake,plain_corr_diagonal,R,0.9420
+color,Lake,cipher_corr_diagonal,R,-0.0017
+color,Lake,plain_corr_horizontal,G,0.9715
+color,Lake,cipher_corr_horizontal,G,-0.0023
+color,Lake,plain_corr_vertical,G,0.9663
+color,Lake,cipher_corr_vertical,G,0.0008
+color,Lake,plain_corr_diagonal,G,0.9530
+color,Lake,cipher_corr_diagonal,G,0.0061
+color,Lake,plain_corr_horizontal,B,0.9710
+color,Lake,cipher_corr_horizontal,B,-0.0002
+color,Lake,plain_corr_vertical,B,0.9694
+color,Lake,cipher_corr_vertical,B,-0.0037
+color,Lake,plain_corr_diagonal,B,0.9530
+color,Lake,cipher_corr_diagonal,B,0.0009
+color,Airplane,plain_entropy,R,6.7178
+color,Airplane,plain_entropy,G,6.7990
+color,Airplane,plain_entropy,B,6.2138
+color,Airplane,cipher_entropy,R,7.9971
+color,Airplane,cipher_entropy,G,7.9971
+color,Airplane,cipher_entropy,B,7.9973
+color,Airplane,chi_square,R,265.0156
+color,Airplane,chi_square,G,262.2344
+color,Airplane,chi_square,B,246.4453
+color,Airplane,plain_corr_horizontal,R,0.9726
+color,Airplane,cipher_corr_horizontal,R,0.0045
+color,Airplane,plain_corr_vertical,R,0.9568
+color,Airplane,cipher_corr_vertical,R,0.0024
+color,Airplane,plain_corr_diagonal,R,0.9343
+color,Airplane,cipher_corr_diagonal,R,-0.0046
+color,Airplane,plain_corr_horizontal,G,0.9578
+color,Airplane,cipher_corr_horizontal,G,-0.0017
+color,Airplane,plain_corr_vertical,G,0.9678
+color,Airplane,cipher_corr_vertical,G,0.0040
+color,Airplane,plain_corr_diagonal,G,0.9326
+color,Airplane,cipher_corr_diagonal,G,-0.0015
+color,Airplane,plain_corr_horizontal,B,0.9640
+color,Airplane,cipher_corr_horizontal,B,0.0016
+color,Airplane,plain_corr_vertical,B,0.9353
+color,Airplane,cipher_corr_vertical,B,-0.0034
+color,Airplane,plain_corr_diagonal,B,0.9146
+color,Airplane,cipher_corr_diagonal,B,-0.0020
+uniform,White,cipher_entropy,,7.9971
+uniform,White,local_entropy,,7.9030
+uniform,White,chi_square,,266.6328
+uniform,White,MSE,,21771.27
+uniform,White,PSNR,,4.7520
+uniform,White,NPCR,,99.6047
+uniform,White,UACI,,33.3337
+uniform,Black,cipher_entropy,,7.9971
+uniform,Black,local_entropy,,7.9024
+uniform,Black,chi_square,,260.1953
+uniform,Black,MSE,,21701.27
+uniform,Black,PSNR,,4.7660
+uniform,Black,NPCR,,99.5971
+uniform,Black,UACI,,33.3533
+medical,Lungimage04,cipher_entropy,,7.9974
+medical,Lungimage04,local_entropy,,7.9044
+medical,Lungimage04,chi_square,,234.0469
+medical,Lungimage04,MSE,,11102.98
+medical,Lungimage04,PSNR,,7.6764
+medical,Lungimage04,NPCR,,99.5681
+medical,Lungimage04,UACI,,33.7543
+medical,Lungimage09,cipher_entropy,,7.9975
+medical,Lungimage09,local_entropy,,7.9008
+medical,Lungimage09,chi_square,,228.4063
+medical,Lungimage09,MSE,,11071.05
+medical,Lungimage09,PSNR,,7.6889
+medical,Lungimage09,NPCR,,99.5971
+medical,Lungimage09,UACI,,33.6886
+medical,Pneumonia120,cipher_entropy,,7.9973
+medical,Pneumonia120,local_entropy,,7.9004
+medical,Pneumonia120,chi_square,,249.0313
+medical,Pneumonia120,MSE,,15948.03
+medical,Pneumonia120,PSNR,,6.1037
+medical,Pneumonia120,NPCR,,99.6231
+medical,Pneumonia120,UACI,,33.5632
+medical,BrainG100,cipher_entropy,,7.9971
+medical,BrainG100,local_entropy,,7.9028
+medical,BrainG100,chi_square,,262.9375
+medical,BrainG100,MSE,,13190.92
+medical,BrainG100,PSNR,,6.9281
+medical,BrainG100,NPCR,,99.6093
+medical,BrainG100,UACI,,33.4404
+medical,BrainG101,cipher_entropy,,7.9969
+medical,BrainG101,local_entropy,,7.9029
+medical,BrainG101,chi_square,,279.0156
+medical,BrainG101,MSE,,13399.32
+medical,BrainG101,PSNR,,6.8600
+medical,BrainG101,NPCR,,99.5788
+medical,BrainG101,UACI,,33.5412
+algorithm,Proposed,keyspace_bits,,318
+runtime,256x256,runtime_seconds,,0.0576
+runtime,512x512,runtime_seconds,,0.1477
+runtime,1024x1024,runtime_seconds,,0.5818

@@ -1,0 +1,50 @@
+{
+  "prepared_at": "2026-09-22 14:03:59",
+  "standard_images": {
+    "5.1.09": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\5.1.09.tiff"
+    },
+    "5.1.10": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\5.1.10.tiff"
+    },
+    "5.1.11": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\5.1.11.tiff"
+    },
+    "5.1.12": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\5.1.12.tiff"
+    },
+    "5.1.13": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\5.1.13.tiff"
+    },
+    "5.1.14": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\5.1.14.tiff"
+    },
+    "4.2.03": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\4.2.03.tiff"
+    },
+    "4.2.07": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\4.2.07.tiff"
+    },
+    "4.2.06": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\4.2.06.tiff"
+    },
+    "4.2.05": {
+      "status": "exact_cached",
+      "path": "data\\paper_images\\4.2.05.tiff"
+    }
+  },
+  "medical": {
+    "status": "bundled_figure9_extracts",
+    "note": "The paper gives source databases but not exact file/slice identifiers. Figure 9 plain-image panels are bundled for offline presentation; replace with author-original 256x256 files for exact numerical verification."
+  },
+  "wheels_cached": null
+}

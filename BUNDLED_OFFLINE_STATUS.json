@@ -1,0 +1,14 @@
+{
+  "package_created": "2026-09-22 09:00:28",
+  "offline_core_ready": true,
+  "bundled_medical_images": [
+    "Lungimage04",
+    "Lungimage09",
+    "Pneumonia120",
+    "BrainG100",
+    "BrainG101"
+  ],
+  "medical_asset_quality": "paper Figure 9 plain-panel extracts, 256x256",
+  "first_run_setup": "FIRST_RUN_SETUP.bat downloads exact USC-SIPI sources where possible and caches wheels",
+  "known_limitation": "Exact author-original medical file/patient/series/slice identifiers are not published."
+}

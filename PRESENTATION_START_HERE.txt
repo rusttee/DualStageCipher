@@ -1,0 +1,29 @@
+V4 PRESENTATION START
+=====================
+
+1. Install requirements:
+   pip install -r requirements.txt
+
+2. Start:
+   python extended_main.py
+   or double-click START_HERE.bat / RUN_EXTENSIONS.bat
+
+3. Your browser opens a LOCAL GUI on 127.0.0.1.
+
+4. Wait for OFFLINE READY on first run.
+
+5. Choose operation 0-5.
+
+6. After processing, click "Open full GUI analysis".
+
+The dashboard is top-to-bottom and includes:
+- stage images
+- 30 representative non-background values
+- generated chaotic values beginning at iteration 101
+- Confusion 1 mapping/highlight tables
+- Confusion 2 iteration matrix tables
+- Diffusion 1 modulo tables
+- Diffusion 2 MSB/LSB bit-OR tables + diagnostic XOR change mask
+- RGB/intensity/cumulative histograms and paper-style statistics
+
+No Matplotlib/Tk stage popups are used by extended_main.py.
